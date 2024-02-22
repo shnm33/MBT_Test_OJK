@@ -4,7 +4,7 @@
 a=Parameter("Username")
 b=Parameter("Password")
 
-'asdfasdfdasdf
+'asdfasdfdasdf asdf asdf s d asdfasdfasdf
 'Start the Flight GUI Appolication
 SystemUtil.Run "C:\Program Files (x86)\Micro Focus\UFT One\samples\Flights Application\FlightsGUI.exe"
 
